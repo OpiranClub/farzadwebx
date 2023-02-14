@@ -6,7 +6,7 @@
 | Variable meaning | Variable name | Variable specification value | When the variable name is not added, the final default result |
 | :--- | :--- | :--- | :--- |
 | Each protocol uuid or password | uuid | can be randomly generated on V2raN, or customize the uuid format |ea4909ef-7ca6-4b46-bf2e-6c07896ef338|
-| Camouflage web page | www | Choose a number from 1-9, a total of 9 camouflage web pages can be selected | Display Nginx welcome interface |
+| Camouflage web page | www | Choose a number 8 or 9, a total of 2 camouflage web pages can be selected | Display Nginx welcome interface |
 | Xray version | ver |[View the version number](https://github.com/XTLS/Xray-core/tags), the format is x.x.x, such as 1.7.1|Automatically update to the latest official version of Xray|
 |Updating...|Updating...|Updating...|Updating...|
 ---------------
